@@ -1,0 +1,3 @@
+[workspace]
+members = ["rustyenv-core"]
+resolver = "2"

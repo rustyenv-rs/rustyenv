@@ -1,0 +1,15 @@
+[package]
+name = "rustyenv"
+version = "0.0.1"
+edition = "2021"
+authors = ["Kazuno Fukuda <codemountains@gmail.com>"]
+description = ""
+categories = ["config"]
+keywords = ["dotenv"]
+homepage = "https://github.com/rustyenv-rs/rustyenv"
+repository = "https://github.com/rustyenv-rs/rustyenv"
+readme = "../README.md"
+license = "MIT"
+rust-version = "1.74.0"
+
+[dependencies]
